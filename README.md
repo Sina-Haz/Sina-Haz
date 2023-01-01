@@ -6,7 +6,7 @@ Below you'll find summaries and highlights of my current repositories:
 
 ---
 
-##Academic Projects
+## Academic Projects
 
 [Computer Architecture](https://github.com/Sina-Haz/Computer-Architecture-Projects)
 
