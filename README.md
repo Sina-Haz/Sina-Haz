@@ -18,7 +18,7 @@ Project 2:
  - In pa2/third and pa2/fourth I implement BFS and DFS traversal algorithms respectively
  - Under pa2/fifth I find the shortest path from a source vertex to all other vertices in a graph using Single Source Shortest Path Algorithm along with a topsorting algorithm to identify whether a graph is directed and acyclic
  - pa2/sixth solves the shortest path problem for undirected graphs using Djikstra's algorithm
- - pa2/ninth and tenth convert decimals to IEEE-754 FP format and back respectively
+ - pa2/ninth and tenth convert decimals to IEEE-754 FP format and back respectively (with a variable number of mantissa and exponent bits)
 
 
 
