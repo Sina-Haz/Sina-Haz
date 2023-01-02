@@ -8,7 +8,7 @@ Below you'll find summaries and highlights of my current repositories:
 
 ## Academic Projects
 
-[Computer Architecture](https://github.com/Sina-Haz/Computer-Architecture-Projects)
+[Computer Architecture Projects](https://github.com/Sina-Haz/Computer-Architecture-Projects)
 
 Project 1:
  - Implement ordered link lists and stacks and queues in pa1/second and pa1/third respectively
@@ -20,6 +20,9 @@ Project 2:
  - pa2/sixth solves the shortest path problem for undirected graphs using Djikstra's algorithm
  - pa2/ninth and tenth convert decimals to IEEE-754 FP format and back respectively (with a variable number of mantissa and exponent bits)
 
+Project 4:
+ - In this project I simulate write-allocate and write through caches that can work with both an lru and fifo replacement policy.
+ - In pa4/first I implement an L1 cache and in pa4/second I implement the L1 and L2 caches in an exclusive hierarchy, meaning that L1 and L2 do not share the same cache blocks.
 
 
 <!--
